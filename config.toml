@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 disqusShortname = "zi-shane-github-io"
+googleAnalytics = "UA-122716411-1"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
