@@ -29,8 +29,8 @@ googleAnalytics = "UA-122716411-1"
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Shane's Blog"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,7 +46,7 @@ googleAnalytics = "UA-122716411-1"
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Shane's Blog"
       logoHomeLink = "/"
     # or
     #
