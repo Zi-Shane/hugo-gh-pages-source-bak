@@ -33,5 +33,5 @@ git clone --recursive git@github.com:Zi-Shane/hugo-gh-pages-source.git
 npm install
 npm i yarn
 npx yarn
-hugo
+hugo server -t hello-friend
 ```
